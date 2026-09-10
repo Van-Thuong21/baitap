@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "blink_led",
+			"path": "."
+		},
+		{
+			"name": "led_effect",
+			"path": "../led_effect"
+		},
+		{
+			"name": "dkled",
+			"path": "../dkled"
+		}
+	],
+	"settings": {}
+}
